@@ -1,1 +1,1 @@
-{"identifier": "MTY-150620231654", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "23.90km", "Fecha y Hora": "15/06/2023 21:40:00", "Temperatura actual": "38", "Humedad relativa": "35.3"}}
+{"identifier": "MTY-020920232322", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "23.90km", "Fecha y Hora": "03/09/2023 04:40:00", "Temperatura actual": "28", "Humedad relativa": "51.3"}}

@@ -1,1 +1,1 @@
-{"identifier": "CDMX-150620231654", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "9.40km", "Fecha y Hora": "15/06/2023 21:50:00", "Temperatura actual": "32", "Humedad relativa": "21.1"}}
+{"identifier": "CDMX-020920232322", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "9.40km", "Fecha y Hora": "03/09/2023 04:42:00", "Temperatura actual": "16", "Humedad relativa": "77.1"}}

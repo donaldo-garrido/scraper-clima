@@ -1,1 +1,1 @@
-{"identifier": "MER-150620231654", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "6.24km", "Fecha y Hora": "15/06/2023 21:47:00", "Temperatura actual": "39", "Humedad relativa": "37.8"}}
+{"identifier": "MER-020920232322", "request": "<bound method Response.json of <Response [200]>>", "status": 200, "data": {"Distancia": "6.24km", "Fecha y Hora": "03/09/2023 04:41:00", "Temperatura actual": "27", "Humedad relativa": "83.7"}}
